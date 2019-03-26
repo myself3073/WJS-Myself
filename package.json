@@ -1,0 +1,19 @@
+{
+  "name": "wej-myself",
+  "version": "1.0.0",
+  "description": "wjs",
+  "main": "\u001b[D\u001b[D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cgulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myself3073/WJS-Myself.git"
+  },
+  "author": "hhz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myself3073/WJS-Myself/issues"
+  },
+  "homepage": "https://github.com/myself3073/WJS-Myself#readme"
+}
